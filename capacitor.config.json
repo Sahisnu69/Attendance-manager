@@ -1,8 +1,0 @@
-{
-  "appId": "com.zeus.attendancemanager",
-  "appName": "Attendance Manager",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
